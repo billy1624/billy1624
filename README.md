@@ -12,4 +12,4 @@ I have the following experience:
 My development skill set includes creating UI wireframes and prototypes for product owners to review before implementation, building web applications backed by PHP (CodeIgniter, Laravel or Yii) and MySQL and developing responsive frontend user interfaces with JavaScript (jQuery), CSS (Bootstrap and LESS) and HTML. Furthermore, I am currently gaining experience using React.js, Node.js and Java in my final year project to develop an on-campus smart parking system.
 
 Medium: https://medium.com/@ccw_billy  
-LinkedIn: https://www.linkedin.com/in/cwchan-billy/
+LinkedIn: https://linkedin.com/in/cwchan-billy/
