@@ -4,5 +4,17 @@
 
 A Hong Kong Software Engineer, passionate in open source development and contribution especially Rust 🦀
 
+# Hi, I'm a ...
+
+### Open Source Rust Developer
+
+### Software Engineer
+
+### HKUST Computer Science Graduate
+
+# My Leadership Style ...
+
+# I'm Also on ...
+
 Medium: https://medium.com/@ccw_billy  
 LinkedIn: https://linkedin.com/in/cwchan-billy/
