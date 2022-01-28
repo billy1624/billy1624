@@ -4,15 +4,23 @@
 
 A Hong Kong Software Engineer, passionate in open source development and contribution especially Rust 🦀
 
-## Hi, I'm a ...
+## Hi, I am a ...
 
-#### Open Source Rust Developer
+### Open Source Rust Developer
 
-#### Software Engineer
+### Software Engineer
 
-#### HKUST Computer Science Graduate
+### HKUST Computer Science Graduate
 
 ## My leadership style ...
+
+I am an ENFJ, and according to [Personality Central](https://personality-central.com/personality_types/enfj-leadership/):
+
+> ENFJs are idealistic and perfectionist. They have an ideal they envision, and they will strive to achieve them.
+> 
+> ENFJs are passionate, articulate and charismatic leaders who can rally people around a common cause.
+> 
+> Their desire for personal development also means that they will seek opportunities to help their staff develop.
 
 ## Find me on ...
 
