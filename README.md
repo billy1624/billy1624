@@ -14,11 +14,13 @@ If you like what I do, consider starring, commenting, sharing and contributing.
 
 ### Software Engineer
 
-Over six years of experience in full stack development: starting from collecting requirements from end-user and defining the requirement specifications including user interfaces and database schemas, then implementing and testing both frontend and backend, finally releasing the MVP for production and maintaining it for years to come.
+With over 6 years of experience in full stack development: starting from collecting requirements from end-user and defining the requirement specifications including user interfaces and database schemas, then implementing and testing both frontend and backend, finally releasing the MVP for production and maintaining it for years to come.
 
 ### HKUST Computer Science Graduate
 
+I graduated from [HKUST](https://hkust.edu.hk/) in 2020, major in Computer Science and minor in Big Data Technology.
 
+My final year project is [USmarTpark: Smart Parking Lot with Real-time Space Monitoring](https://youtu.be/y0ldZsfVBLY), which aims to convert existing HKUST parking lots into Smart Parking lots. Sensors are used to determine which spots in the parking lot are occupied and which are available for parking.
 
 ## 💻 My Leadership Style
 
