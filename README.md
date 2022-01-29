@@ -16,7 +16,7 @@ If you like what I do, consider starring, commenting, sharing and contributing.
 
 ### Software Engineer
 
-
+Over six years of experience in full stack development: starting from collecting requirements from end-user and defining the requirement specifications including user interfaces and database schemas, then implementing and testing both frontend and backend, finally releasing the MVP for production and maintaining it for years to come.
 
 ### HKUST Computer Science Graduate
 
