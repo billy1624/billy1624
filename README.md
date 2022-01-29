@@ -10,7 +10,7 @@ A core member of [SeaQL](https://github.com/SeaQL), who is developing and mainta
 
 If you share a common vision and want to work with me, please do not hesitate to contact me.
 
-If you like what I do, consider starring, commenting, sharing and contributing.
+If you like what I do, consider starring, commenting, sharing and contributing, it would be much appreciated.
 
 ### Software Engineer
 
