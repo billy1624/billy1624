@@ -4,7 +4,7 @@
 
 A Hong Kong Software Engineer, passionate in open source development and contribution especially Rust 🦀
 
-## Hi, I am a ...
+## 👋 Hi, I am a
 
 ### Open Source Rust Developer
 
@@ -22,7 +22,7 @@ If you like what I do, consider starring, commenting, sharing and contributing.
 
 
 
-## My leadership style ...
+## 💻 My Leadership Style
 
 I am an ENFJ, and according to [Personality Central](https://personality-central.com/personality_types/enfj-leadership/):
 
@@ -32,7 +32,7 @@ I am an ENFJ, and according to [Personality Central](https://personality-central
 > 
 > Their desire for personal development also means that they will seek opportunities to help their staff develop.
 
-## Find me on ...
+## 📬 Find Me
 
 Discord: https://discordapp.com/users/578562150256082944  
 LinkedIn: https://linkedin.com/in/cwchan-billy  
