@@ -38,6 +38,6 @@ I am an ENFJ, and according to [Personality Central](https://personality-central
 
 Discord: https://discordapp.com/users/578562150256082944  
 LinkedIn: https://linkedin.com/in/cwchan-billy  
-Twitter: https://twitter.com/cwchan_billy
+Twitter: https://twitter.com/cwchan_billy  
 Medium: https://medium.com/@ccw_billy  
 DEV: https://dev.to/billy1624
