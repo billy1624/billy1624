@@ -36,10 +36,9 @@ I am an ENFJ, and according to [Personality Central](https://personality-central
 
 ## 📬 Find Me
 
-<a href="https://discordapp.com/users/578562150256082944" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord"/></a>
-<a href="https://linkedin.com/in/cwchan-billy" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn"/></a>
-<a href="https://twitter.com/cwchan_billy" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50" title="Twitter"/></a>
-<a href="https://medium.com/@ccw_billy" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="50" title="Medium"/></a>
-<a href="https://dev.to/billy1624" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="50" title="dev.to"/></a>
-<a href="mailto:ccw.billy.123@gmail.com" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="Email"/></a>
-
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord"/>](https://discordapp.com/users/578562150256082944)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn"/>](https://linkedin.com/in/cwchan-billy)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50" title="Twitter"/>](https://twitter.com/cwchan_billy)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="50" title="Medium"/>](https://medium.com/@ccw_billy)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="50" title="dev.to"/>](https://dev.to/billy1624)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="Email"/>](mailto:ccw.billy.123@gmail.com)
