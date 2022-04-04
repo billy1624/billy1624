@@ -6,7 +6,7 @@
 
 ### Open Source Rust Developer
 
-A core member of [SeaQL](https://github.com/SeaQL), who is developing and maintaining [SeaORM](https://github.com/SeaQL/sea-orm), [SeaQuery](https://github.com/SeaQL/sea-query) and [SeaSchema](https://github.com/SeaQL/sea-schema) and is actively engaged with all Rustaceans.
+A core member of [SeaQL](https://github.com/SeaQL), who is developing and maintaining [SeaORM](https://github.com/SeaQL/sea-orm), [SeaQuery](https://github.com/SeaQL/sea-query), [SeaSchema](https://github.com/SeaQL/sea-schema) and [StarfishQL](https://github.com/SeaQL/starfish-ql) and is actively engaged with all Rustaceans.
 
 I am building sustainable open source projects with mentorship from [Chris](https://github.com/tyt2y3).
 
