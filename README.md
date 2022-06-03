@@ -2,13 +2,15 @@
 
 [![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=billy1624&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-light-mode-only)
 
-## 👋 Hi, I am a
+## 👋 Hi, I'm a
 
 ### Open Source Rust Developer
 
 A core member of [SeaQL](https://github.com/SeaQL), who is developing and maintaining [SeaORM](https://github.com/SeaQL/sea-orm), [SeaQuery](https://github.com/SeaQL/sea-query), [SeaSchema](https://github.com/SeaQL/sea-schema) and [StarfishQL](https://github.com/SeaQL/starfish-ql) and is actively engaged with all Rustaceans.
 
-I am building sustainable open source projects with mentorship from [Chris](https://github.com/tyt2y3).
+I'm building sustainable open source projects with mentorship from [Chris](https://github.com/tyt2y3).
+
+I've been using open-source libraries ever since I started coding but it's until 2020, I dedicated myself to be a Rust open-source developer.
 
 If you share a common vision and want to work with me, please do not hesitate to contact me.
 
@@ -26,7 +28,7 @@ My final year project is [USmarTpark: Smart Parking Lot with Real-time Space Mon
 
 ## 💻 My Leadership Style
 
-I am an ENFJ, and according to [Personality Central](https://personality-central.com/personality_types/enfj-leadership/):
+I'm an ENFJ, and according to [Personality Central](https://personality-central.com/personality_types/enfj-leadership/):
 
 > ENFJs are idealistic and perfectionist. They have an ideal they envision, and they will strive to achieve them.
 > 
