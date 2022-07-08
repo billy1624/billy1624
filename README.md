@@ -1,3 +1,8 @@
+<h2 align="center">Billy Chan</h2>
+<p align="center">Open Source Rust Developer 🦀 &nbsp; | &nbsp; Software Engineer 👨🏻‍💻</p>
+
+<br />
+
 [![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=billy1624&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-dark-mode-only)
 
 [![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=billy1624&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-light-mode-only)
