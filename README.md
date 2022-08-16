@@ -53,4 +53,4 @@ I'm an ENFJ, and according to [Personality Central](https://personality-central.
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="50" title="dev.to"/>](https://dev.to/billy1624)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg" width="50" title="Hacker News"/>](https://news.ycombinator.com/user?id=billy1624)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="50" title="StackOverflow"/>](https://stackoverflow.com/users/7059723/billy-chan)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="Email"/>](mailto:ccw.billy.123@gmail.com)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="Email"/>](mailto:cwchan.billy@gmail.com)
